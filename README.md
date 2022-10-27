@@ -1,2 +1,1 @@
-# Practice
-Config files for my GitHub profile.
+This repo is meant to practice python, AI and Machine Learning
